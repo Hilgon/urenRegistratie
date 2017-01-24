@@ -1,0 +1,67 @@
+body {
+    background-color: #CCC;
+}
+
+#container {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#onderwerp {
+   
+}
+
+td {
+    
+      border-collapse: collapse;
+    border-spacing: 0;
+    background-color: Transparent;
+    border: 1px;
+    border-color: black
+    -webkit-box-shadow:inset 0px 0px 0px 1px white;
+    -moz-box-shadow:inset 0px 0px 0px 1px white;
+    box-shadow:inset 0px 0px 0px 1px white;
+     font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-align: center;
+
+
+    
+    
+}
+
+input[name=submit] {
+    padding: 5px 10px 5px 10px;
+    margin-top: 20px;
+}
+
+td.opmerking {
+    max-width: 170px;
+    word-wrap: break-word;
+}
+
+td.potlood {
+    width: 4%;
+    background-color: #DDD;
+    cursor: pointer;
+}
+
+#potlood {
+    width: 100%;
+}
+
+#tekst {
+    resize: none;
+}
+
+
+
+
+
+
+
+
+
+
